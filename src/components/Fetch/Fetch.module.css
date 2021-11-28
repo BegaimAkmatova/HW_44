@@ -1,0 +1,23 @@
+.card-one {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 0 auto;
+  }
+  .card-two {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+    border-radius: 10px;
+  }
+  
+  .card-three {
+    border: 2px solid black;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    font-size: 11px;
+  }
